@@ -8,7 +8,8 @@
       {
         "ignore": [
           "scrollbar-gutter",
-          "scrollbar-gutter: stable"
+          "scrollbar-gutter: stable",
+          "user-select"
         ]
       }
     ],
